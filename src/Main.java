@@ -13,7 +13,7 @@ public class Main {
         Tabuleiro.fillPieces();
 
         while(!Tabuleiro.isChequeMate()) {
-
+// test
 //            ate dar cheque mate
 
 //            ve se acabou o jogo
